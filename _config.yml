@@ -103,5 +103,5 @@ theme: archer
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com:CyanStudio/cyanstudio.gitub.io.git
+  repo: git@github.com:CyanStudio/CyanStudio.gitub.io.git
   branch: main
